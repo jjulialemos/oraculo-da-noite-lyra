@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Lyra – Oráculo da Noite</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: url('https://images.unsplash.com/photo-1602343169423-cd3c507c0723?auto=format&fit=crop&w=1950&q=80') no-repeat center center fixed;
+      background-size: cover;
+      color: #ffffff;
+      font-family: 'Georgia', serif;
+      text-align: center;
+      padding: 80px 20px;
+    }
+
+    h1 {
+      font-size: 3em;
+      margin-bottom: 10px;
+      letter-spacing: 2px;
+    }
+
+    p {
+      font-size: 1.3em;
+      max-width: 600px;
+      margin: 0 auto 30px;
+      line-height: 1.6;
+    }
+
+    a.botao {
+      background-color: #ffffff22;
+      color: #fff;
+      text-decoration: none;
+      padding: 15px 30px;
+      border: 1px solid #fff;
+      border-radius: 30px;
+      font-size: 1.1em;
+      transition: 0.3s ease;
+    }
+
+    a.botao:hover {
+      background-color: #ffffff44;
+    }
+
+    footer {
+      margin-top: 60px;
+      font-size: 0.9em;
+      opacity: 0.6;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Lyra – Oráculo da Noite</h1>
+  <p>O silêncio da noite carrega mensagens que só o coração desperto pode ouvir.  
+  Lyra canaliza sua tiragem mensal com base nos arcanos, nas estrelas e nos números que regem o seu caminho.</p>
+
+  <a href="https://docs.google.com/spreadsheets/d/14e8QKCIwIYBFzHhYkeHuCEeTxKRFqU_00IlFsgmdi0o/edit?usp=sharing" class="botao" target="_blank">Quero receber minha tiragem mensal</a>
+
+  <footer>
+    © 2025 – Lyra, Voz do Invisível.
+  </footer>
+
+</body>
+</html>
